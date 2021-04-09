@@ -1,0 +1,20 @@
+body {
+    font-family: 'Noto Serif JP', serif;
+    background-image: url('https://img.elo7.com.br/product/zoom/F8A64F/painel-megamente-g-frete-gratis-temas-de-festa-infantil.jpg');
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+   
+ h1 {
+    color: #ffffff;
+    margin-left: 100%;
+    font-size: 100px;
+    margin: 100px 0px 0px 30%;
+}
+  
+  h3 {
+    color: #ffffff;
+    font-size: 20px;
+    margin: 0px 0px 0px 38%;
+}
